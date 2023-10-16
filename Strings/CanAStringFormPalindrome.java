@@ -6,7 +6,7 @@ public class CanAStringFormPalindrome {
 
 		System.out.println(canBePalindrome("aabbc"));
 	
-	} //aabbccd
+	}
 
 	public static boolean canBePalindrome(String s) {
 		int[] char_counts = new int[128];
