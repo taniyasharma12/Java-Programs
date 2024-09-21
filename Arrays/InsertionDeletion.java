@@ -1,4 +1,4 @@
-package LearnYard.Arrays;
+package Arrays;
 
 import java.util.Scanner;
 
@@ -18,10 +18,6 @@ public class InsertionDeletion {
 	        }
 	        
 	        display(arr, n);
-
-	     //   n = pushback(arr, 20, n);
-
-	       // display(arr, n);
 	        
 	        n = pushfront(arr, 20, n);
 	        
